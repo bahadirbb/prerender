@@ -22,5 +22,15 @@
 	"\\.eot",
 	"log.optimizely.com/event",
 	"\\.otf",
-	"hn.inspectlet.com"
+	"hn.inspectlet.com",
+	"s.ytimg.com",
+	"www.google.com",
+	"www.youtube.com",
+	"127.0.0.1/api/files/*",
+	"\\.woff",
+	"\\.css",
+	"\\.ico",
+	"\\.jpg",
+	"\\.png",
+	"x3dom.js"
 ]
